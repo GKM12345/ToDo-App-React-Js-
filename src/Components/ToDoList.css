@@ -1,0 +1,14 @@
+.To-Do-Outer-Container{
+    width:100vw;
+    height:100vh;
+    background-color: rgb(68, 149, 230);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.To-Do-Inner-Cont-1{
+    width:30%;
+    height: 75%;
+    border: 2px solid #FFF;
+}
